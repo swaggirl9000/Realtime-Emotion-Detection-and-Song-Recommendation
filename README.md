@@ -10,5 +10,3 @@ Data Files:
 data_moods.csv --> data music set
 FER2013 dataset
 haarcascade_frontalface_default.xml --> web camera access 
-
-Model: der.h5, fer.json
